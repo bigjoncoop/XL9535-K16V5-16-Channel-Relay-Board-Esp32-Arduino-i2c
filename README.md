@@ -1,6 +1,20 @@
 # XL9535-K16V5-16-Channel-Relay-Board-Esp32-Arduino-i2c
 Complete working code and documentation for controlling XL9535-K16V5 16-channel I2C relay boards with ESP32, Arduino, and other microcontrollers. Includes multi-board daisy-chain setup, power configuration, and beginner-friendly AI prompt for code generation.
 
+## Table of Contents
+- [Board Specifications](#board-specifications)
+- [Wiring Diagram](#wiring-diagram)
+- [I2C Address Configuration](#i2c-address-configuration)
+- [How the Board Works](#how-the-board-works)
+- [Working Code Examples](#working-code-examples)
+- [AI Code Generation Prompt](#ai-code-generation-prompt)
+- [Troubleshooting](#troubleshooting)
+- [Compatible Libraries](#compatible-libraries)
+- [Multi-Board Setup Example](#multi-board-setup-example)
+- [Relay Terminal Connections](#relay-terminal-connections)
+- [Safety Notes](#safety-notes)
+
+
 # XL9535-K16V5 16-Channel I2C Relay Module - Complete Guide
 
 ## 🎯 What is this?
