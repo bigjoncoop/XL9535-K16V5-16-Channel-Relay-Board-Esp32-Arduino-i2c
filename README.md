@@ -161,6 +161,8 @@ Write 0x25 to register 0x02
 ## 🤖 AI Code Generation Prompt
 
 **Copy and paste this into ChatGPT, Claude, or any AI assistant to generate custom code:**
+
+
 I need you to write code for controlling an XL9535-K16V5 16-channel I2C relay module with my [SPECIFY: ESP32/Arduino/etc].
 CRITICAL BOARD ARCHITECTURE:
 The board has TWO XL9535 GPIO expander chips at the SAME I2C address (default 0x20)
